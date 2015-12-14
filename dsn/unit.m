@@ -7,8 +7,8 @@ st.atk = 10;
 st.def = 2;
 st.cdef = 10;
 
-st.satk = 10;
-st.sdef = 2;
+st.eleatk = 10;
+st.eledef = 2;
 
 st.bao = 4.5;
 st.kbao = 10;
@@ -23,6 +23,6 @@ st.Bkbao = 1;
 st.Ahit = 0.8;
 st.Bhit = 1;
 st.Adod = 0.8;
-st.Bdod = 0.8;
+st.Bdod = 1;
 
 end %F
