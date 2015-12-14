@@ -1,0 +1,14 @@
+# matlab
+*.mat
+*.sav
+
+# excel
+xlsx/
+*.xlsx
+*.xlsm
+*.xlsb
+
+# tmp
+tmp
+*~
+*.swp

@@ -1,0 +1,15 @@
+<!-- gen by xsave -->
+<project>
+	<var1>
+		<base A="E:\sgame\shuzhi"/>
+		<name A="shuzhi"/>
+		<project A="shuzhi_ar.mat"/>
+		<subpath A="."/>
+		<subpath A="fun"/>
+		<subpath A="dsn"/>
+		<subpath A="mat"/>
+		<workspace A="shuzhi_ws.mat"/>
+		<filter A="^[a-zA-Z]{4,}$"/>
+		<Class_ A="Area"/>
+	</var1>
+</project>
