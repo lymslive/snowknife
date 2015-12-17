@@ -25,4 +25,7 @@ st.Bhit = 1;
 st.Adod = 0.8;
 st.Bdod = 1;
 
+st.phydef = st.def;
+st.mgcdef = st.def;
+
 end %F

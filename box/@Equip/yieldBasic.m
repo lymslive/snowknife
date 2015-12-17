@@ -5,6 +5,10 @@ function tf = yieldBasic(me)
 % 装备等级(20) by 品质个数(7) 个元胞矩阵
 % 每个 cell 内容是形如 dispatch.basic 的表格 4*10
 % 行是 4 个基本属性，列是十件装备
+%
+% 装备系统后修改，3件换装，8件升级，需分别处理
+% 此脚本废弃
+% 2015-12-16
 
 timeStart = tic;
 
